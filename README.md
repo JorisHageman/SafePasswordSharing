@@ -18,4 +18,9 @@ Safe Password Sharing is een tool voor Avionics International B.V. Met deze tool
     - Alle wachtwoorden worden encrypted opgeslagen
     - Alle id's worden gegenereerd met een unieke hash
     - Het wachtwoord is alleen te zien door op de link te klikken
+- Wachtwoord delen
+    - Wachtwoord delen met een link
+    - De link is maar een bepaald aantal keer te gebruiken
+    - De link is maar een bepaalde tijd geldig
+- Wachtwoord bekijken
     - Alle gegevens worden na bekiijken verwijderd
