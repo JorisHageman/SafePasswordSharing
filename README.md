@@ -11,7 +11,7 @@ Safe Password Sharing is een tool voor Avionics International B.V. Met deze tool
 1. Ga naar de website
 2. Voer een wachtwoord in, kies een houdbaarheid en aantal gebruiken en druk op 'Genereer link'
 3. Kopieer en deel de link met de gebruiker
-4. De gebruiker kan het wachtwoord zien door op de link te klikken
+4. De gebruiker kan het wachtwoord zien door naar de unieke URL te gaan
 
 ## Functionaliteiten
 - Wachtwoord genereren
