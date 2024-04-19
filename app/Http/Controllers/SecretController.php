@@ -36,7 +36,7 @@ class SecretController extends Controller
             $secret->uses -= 1;
             $secret->save();
             if ($secret->created_at->addHours($secret->time_valid)->isPast()) {
-                return 'Secret expired';
+                return redirect()->route('expired');
             }
             $password = decrypt($secret->password);
             if ($secret->uses == 0) {
